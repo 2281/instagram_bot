@@ -12,9 +12,9 @@ my JSON config struct by default:
 '''
 
 '''
-when bot see that in photo_for_publications you put a new photo.jpg,
+when bot see that in dir photo_for_publications you put a new photo.jpg,
 he publicate it on your insta page
-and replase photo to folder photo_for_publications/publicated/
+and replase that photo to folder photo_for_publications/publicated/
 wait timeout and see in photo_for_publications again
 '''
 
